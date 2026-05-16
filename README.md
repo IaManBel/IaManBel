@@ -1,73 +1,58 @@
 # Hi, I'm Manuel Beltrán 👋
 
-**Regional AI Architect** · SAP NetWeaver Regional Manager · AI Educator  
-📍 Bogotá, Colombia · Axity (Colombia & Chile)
+**AI Researcher & Educator** · Regional AI Architect · Prospective PhD Candidate
+📍 Bogotá, Colombia · Axity (Colombia & Chile) | Pontificia Universidad Javeriana
 
 ---
 
-> Enterprise SAP architect by day, AI researcher by conviction. I design intelligent bridges between SAP ecosystems and modern LLMs — locally, privately, and at scale. Currently leading AI strategy across Chile and Colombia at **Axity**, while teaching AI at **Javeriana University**.
+> Bridging the gap between enterprise systems and academic research. I design intelligent, sovereign architectures connecting complex SAP ecosystems with modern LLMs — locally, privately, and at scale. Currently leading AI strategy across Chile and Colombia at **Axity**, teaching at **Javeriana University**, and laying the groundwork for doctoral research in AI Sovereignty and Enterprise Agentic Systems.
 
 ---
 
-## 🧠 What I build
+## 🧠 Research & Engineering Focus
 
 | Area | Description |
 |------|-------------|
-| **AI Architecture** | Regional AI strategy & agentic system design for enterprise SAP clients |
-| **SAP Lineage Agents** | Ollama + ChromaDB + SQLite querying DD03L/DD02L metadata at scale |
-| **Local LLM Pipelines** | gemma3:12b + RAG for enterprise natural language → SQL workflows |
-| **SAP Data Extraction** | JPype/JCo frameworks for 10M+ row tables with atomic checkpointing |
-| **ML Research** | Probabilistic graphical models, CatBoost, LSTM & Transformer ensembles |
+| **AI Sovereignty & Privacy** | Designing local-first LLM architectures that ensure complete data, infrastructure, and model sovereignty for critical enterprise environments. |
+| **Agentic Information Retrieval** | Developing autonomous SAP lineage agents (Ollama + ChromaDB + SQLite) to query complex DD03L/DD02L metadata via natural language. |
+| **Machine Learning Research** | Investigating probabilistic graphical models, Bayesian networks, and Transformer/LSTM ensembles for structured enterprise data. |
+| **High-Throughput Pipelines** | Architecting robust SAP data extraction frameworks (JPype/JCo) with atomic checkpointing for massive-scale datasets. |
 
 ---
 
-## 🔧 Tech stack
+## 🔧 Tech stack & Research Tools
 
-**SAP**  
-`SAP ECC / BW` `SAP HANA` `NetWeaver` `SAP Joule / AI Units` `Datasphere` `ODP Framework` `RFC_READ_TABLE`
+**AI / ML Research** `Python` `pgmpy` `bnlearn` `pomegranate` `Ollama (gemma3:12b)` `ChromaDB` `CatBoost` `scikit-learn` `LSTM`
 
-**AI / ML**  
-`Python` `Jupyter` `Ollama` `ChromaDB` `SQLite` `pgmpy` `bnlearn` `pomegranate` `CatBoost` `LSTM` `scikit-learn`
+**Enterprise Systems (SAP)** `SAP ECC / BW` `SAP HANA` `NetWeaver` `Datasphere` `SAP Joule / AI Units` `ODP Framework` 
 
-**Cloud & Infrastructure**  
-`Azure` `GCP` `AWS` `SUSE Linux` `AIX / DB2` `LVM / NFS` `Apple Silicon (M-series)`
-
-**SAP Integration**  
-`JPype` `SAP JCo (Java 17)` `ABAP` `RSA1` `BDLS` `S/4HANA SUM / SWPM`
+**Infrastructure & Sovereignty** `SUSE Linux` `AIX / DB2` `Apple Silicon (M-series)` `Local LLM Deployment` `Azure` `GCP` `AWS`
 
 ---
 
-## 🚀 Currently working on
+## 🚀 Current Research & Projects
 
-- 🏗️ Designing regional AI adoption frameworks for enterprise SAP clients across Colombia and Chile
-- 🤖 Autonomous SAP lineage agent (v18+) — natural language → SQL over ECC/BW metadata using `gemma3:12b`
-- 📊 SAP Joule / AI Units roadmap for **Cartones América** & **Harinera del Valle** (2026)
-- 🎓 Teaching probabilistic graphical models (`pgmpy`, `bnlearn`, `pomegranate`) at Javeriana University
-- 🔄 BW/4HANA Datasphere migration — memory optimization & ChromaDB semantic layer tuning
-
----
-
-## 🏢 Clients & organizations
-
-**Axity** 
-**Sapiens Evolucion SAS** 
+- 🔬 **Doctoral Preparation:** Formulating research proposals around AI Sovereignty, privacy-preserving LLMs, and agentic workflows within legacy ERP systems.
+- 🤖 **Autonomous Lineage Agents (v18+):** Applied research on natural language → SQL translation over ECC/BW metadata using quantized local models (`gemma3:12b`).
+- 🎓 **Academic Instruction:** Teaching foundational and advanced probabilistic graphical models (`pgmpy`, `bnlearn`) at Pontificia Universidad Javeriana.
+- 🏗️ **Strategic Architecture:** Designing regional AI adoption and governance frameworks for enterprise clients (Cartones América, Harinera del Valle, Mallplaza).
 
 ---
 
-## 💡 Philosophy
+## 💡 Research Philosophy
 
-> *Local-first AI. Privacy by design. Enterprise depth meets research rigor.*
+> *AI Sovereignty. Privacy by design. Enterprise depth meets academic rigor.*
 
-I believe the next frontier in enterprise AI isn't about connecting everything to the cloud — it's about running powerful, private, context-aware intelligence inside the systems that already hold your business knowledge. SAP is one of those systems.
+I believe the next frontier in enterprise AI isn't about indiscriminately connecting private data to public clouds — it's about **AI Sovereignty**. True technological independence requires running powerful, private, and context-aware intelligence directly within the boundaries of the systems that hold organizational knowledge. My goal is to research and build the frameworks that make sovereign, local-first AI both scalable and trustworthy.
 
 ---
 
-## 📫 Connect
+## 📫 Connect & Collaborate
 
 - 🌐 Based in Bogotá, Colombia
-- 🏫 AI Instructor · Pontificia Universidad Javeriana
-- 💼 Regional AI Architect & SAP NetWeaver Regional Manager · Axity
+- 🏫 AI Instructor & Researcher · Pontificia Universidad Javeriana
+- 💼 Regional AI Architect · Axity
 
 ---
 
-*"The best AI architecture is the one your organization actually trusts."*
+*"The most resilient AI architecture is one where the organization retains total sovereignty over its knowledge and its models."*
