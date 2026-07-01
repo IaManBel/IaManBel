@@ -1,7 +1,7 @@
 # Hi, I'm Manuel Beltrán 
 
 **AI Researcher & Educator** · Regional AI Architect · Prospective PhD Candidate
-📍 Bogotá, Colombia · Axity (Colombia & Chile) | Pontificia Universidad Javeriana
+Bogotá, Colombia · Axity (Colombia & Chile) | Pontificia Universidad Javeriana
 
 ---
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 Research & Engineering Focus
+## Research & Engineering Focus
 
 | Area | Description |
 |------|-------------|
@@ -20,9 +20,9 @@
 
 ---
 
-## 🔧 Tech stack & Research Tools
+##  Tech stack & Research Tools
 
-**AI / ML Research** `Python` `pgmpy` `bnlearn` `pomegranate` `Ollama (gemma3:12b)` `ChromaDB` `CatBoost` `scikit-learn` `LSTM`
+**AI / ML Research** `Python` `pgmpy` `bnlearn` `pomegranate` `Ollama (gemma3:12b)` `ChromaDB` `CatBoost` `scikit-learn` `LSTM` `MLX`
 
 **Enterprise Systems (SAP)** `SAP ECC / BW` `SAP HANA` `NetWeaver` `Datasphere` `SAP Joule / AI Units` `ODP Framework` 
 
@@ -30,16 +30,16 @@
 
 ---
 
-## 🚀 Current Research & Projects
+## Current Research & Projects
 
-- 🔬 **Doctoral Preparation:** Formulating research proposals around AI Sovereignty, privacy-preserving LLMs, and agentic workflows within legacy ERP systems.
-- 🤖 **Autonomous Lineage Agents (v18+):** Applied research on natural language → SQL translation over ECC/BW metadata using quantized local models (`gemma3:12b`).
-- 🎓 **Academic Instruction:** Teaching foundational and advanced probabilistic graphical models (`pgmpy`, `bnlearn`) at Pontificia Universidad Javeriana.
-- 🏗️ **Strategic Architecture:** Designing regional AI adoption and governance frameworks for enterprise clients (Cartones América, Harinera del Valle, Mallplaza).
+- **Doctoral Preparation:** Formulating research proposals around AI Sovereignty, privacy-preserving LLMs, and agentic workflows within legacy ERP systems.
+- **Autonomous Lineage Agents (v18+):** Applied research on natural language → SQL translation over ECC/BW metadata using quantized local models (`gemma3:12b`).
+- **Academic Instruction:** Teaching foundational and advanced probabilistic graphical models (`pgmpy`, `bnlearn`) at Pontificia Universidad Javeriana.
+- **Strategic Architecture:** Designing regional AI adoption and governance frameworks for enterprise clients (Cartones América, Harinera del Valle, Mallplaza).
 
 ---
 
-## 💡 Research Philosophy
+##  Research Philosophy
 
 > *AI Sovereignty. Privacy by design. Enterprise depth meets academic rigor.*
 
@@ -47,11 +47,11 @@ I believe the next frontier in enterprise AI isn't about indiscriminately connec
 
 ---
 
-## 📫 Connect & Collaborate
+##  Connect & Collaborate
 
-- 🌐 Based in Bogotá, Colombia
-- 🏫 AI Instructor & Researcher · Pontificia Universidad Javeriana
-- 💼 Regional AI Architect · Axity
+-  Based in Bogotá, Colombia
+-  AI Instructor & Researcher · Pontificia Universidad Javeriana
+-  Regional AI Architect · Axity
 
 ---
 
