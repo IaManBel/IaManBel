@@ -1,4 +1,4 @@
-# Hi, I'm Manuel Beltrán 👋
+# Hi, I'm Manuel Beltrán 
 
 **AI Researcher & Educator** · Regional AI Architect · Prospective PhD Candidate
 📍 Bogotá, Colombia · Axity (Colombia & Chile) | Pontificia Universidad Javeriana
